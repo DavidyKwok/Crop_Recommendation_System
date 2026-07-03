@@ -7,6 +7,20 @@ This project ranks crop options for each field by combining two signals:
 
 The final output is shown in a Streamlit dashboard.
 
+## Dashboard Preview
+
+### Field 001 Recommendations
+
+![Field 001 crop recommendations](docs/images/field-001-recommendations.png)
+
+![Field 001 sustainability vs yield chart](docs/images/field-001-sustainability-yield.png)
+
+### Field 008 Recommendations
+
+![Field 008 crop recommendations](docs/images/field-008-recommendations.png)
+
+![Field 008 sustainability vs yield chart](docs/images/field-008-sustainability-yield.png)
+
 ## Project Files
 
 ```text
@@ -18,7 +32,7 @@ current_conditions_data.csv  Current field conditions
 field_historical_data.csv    Historical field/yield data
 crop_profiles_data.csv       Crop requirement/profile data
 crop_recommendations.csv     Generated ranking output
-models/yield_model.joblib    Saved trained yield model
+docs/images/                 Dashboard screenshots
 ```
 
 ## Install
@@ -31,7 +45,7 @@ pip install -r requirements.txt
 
 ## Run The Dashboard
 
-Since the trained model and recommendation CSV are already included, you can open the dashboard directly:
+Since `crop_recommendations.csv` is already included, you can open the dashboard directly:
 
 ```bash
 streamlit run app.py
@@ -39,13 +53,15 @@ streamlit run app.py
 
 ## Regenerate The Results
 
-To rebuild everything from the CSV data:
+To rebuild everything from the CSV data, run:
 
 ```bash
 python train_yield_model.py
 python rank_crops.py
 streamlit run app.py
 ```
+
+The first command creates `models/yield_model.joblib`. The model file is not included in this repository because it is generated and can be rebuilt from the CSV data.
 
 On Windows, you can also double-click:
 
