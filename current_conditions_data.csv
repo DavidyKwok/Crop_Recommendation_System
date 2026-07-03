@@ -1,0 +1,51 @@
+field_id,soil_ph,soil_moisture_pct,nitrogen_kg_ha,phosphorus_kg_ha,potassium_kg_ha,forecast_rain_mm_next30d,avg_temp_next30d,precip_history_mm_past90d,soil_type,previous_crops_last_3_years,water_source
+Field_001,5.82,54.2,20.1,11,67.8,263.8,27.4,508.3,Silt,"Pear, Carrot, Banana",canal
+Field_002,7.6,50.3,68.3,20.3,55.7,138,19.6,2 in,Clay,"Melon, Garlic, Spinach",canal
+Field_003,6.47,19,42.9,48.7,64.7,408,12,247.6,Loam,"Pepper, Pea, Soybean",canal
+Field_004,7.11,36.8,23.1,38.3,56.6,226,22.1,118.9,Clay,"Beet, Mango, Canola",well
+Field_005,6.72,31,77.3,17.2,88.1,506.4,17.2,277.2,Silt,"Cocoa, Cabbage, Bean",canal
+Field_006,6.48,39.5,94.8,49.2,80.4,170.6,20.7,397.1,Sandy,"Plum, Onion, Peach",well
+Field_007,6.26,35.7,49.6,23,71.3,387.6,29.4,284.3,Peat,"Peach, Rice",canal
+Field_008,6.78,31.40%,69.7,40,49.5,467.4,23.8,310.8,Silt,"Pea, Tea, Blueberry",well
+Field_009,6.03,32.8,129.2,15.5,75.1,429.8,15.2,385,Peat,"Sorghum, Kale, Cabbage",rainfed
+Field_010,5.56,50.5,129.9,15.7,39.1,345,25.3,553.5,Silt,"Plum, Pea",canal
+Field_011,5.88,47.8,117.5,51.1,61.1,162.1,13.8,488.5,Clay,"Broccoli, Corn, Blueberry",well
+Field_012,6.25,21.9,54.8,11.7,72.8,300,27.4,457.1,Silt,"Rye, Grapes, Onion",river
+Field_013,6.84,31.4,42,25.5,80.7,207.8,21.2,271.5,Peat,"Chickpea, Sunflower",rainfed
+Field_014,5.64,22,10.1,52.4,94.2,197.2,14.7,161.4,Loam,"Peach, Sunflower",canal
+Field_015,7.56,48,114.9,10,88.8,184.9,17.2,434.2,Peat,"Canola, Wheat",well
+Field_016,7.47,47,134.1,38.5,35.7,399.5,27.9,631.6,Clay,"Plum, Cassava, Wheat",well
+Field_017,6.87,49.3,86.9,26.7,66.7,232.3,29.2,529.9,Sandy,"Canola, Sorghum, Cotton",rainfed
+Field_018,7.17,50.3,26.9,11.2,40.4,,13,444.8,Peat,"Lettuce, Millet, Garlic",canal
+Field_019,5.98,33.3,115,19.4,94.7,405.5,12,233.9,Sandy,"Soybean, Mango",rainfed
+Field_020,6.66,41.1,14.4,15.9,35.8,175.1,12.4,307.3,Loam,"Pea, Strawberry",rainfed
+Field_021,5.85,33.3,39.4,38.6,49.9,396.4,28.9,563.4,Sandy,"Rice, Oats, Tomato",rainfed
+Field_022,6.68,21.7,99.4,13.6,23.3,490.7,20.8,534.9,Loam,"Cassava, Corn",rainfed
+Field_023,6.29,29.5,12.4,23.5,62.9,474.7,26.6,132.1,Loam,"Pineapple, Potato",rainfed
+Field_024,5.51,45.2,120.2,8.4,92.5,235.8,17.3,518.8,Clay,"Wheat, Pea",river
+Field_025,7.06,38.5,81.2,30.1,66.3,252.7,28.8,344.5,Silt,"Sweet Potato, Cassava",well
+Field_026,7.61,50.3,39.1,18.1,28.3,314.8,14.1,131.2,Clay,"Bean, Peach",canal
+Field_027,5.84,19.2,18.3,14.5,22.3,176.9,29.2,481.1,Sandy,"Tomato, Raspberry, Lentil",canal
+Field_028,7.3,28,86.1,38.8,91.4,494.3,14.5,561,Loam,"Sweet Potato, Canola",well
+Field_029,6.06,24.5,39.3,46.2,69.2,165.3,16.5,159.9,Sandy,"Grapes, Soybean",rainfed
+Field_030,7.53,50.3,16.9,40.8,43.8,375.2,23.9,611.5,Silt,"Rice, Banana, Chickpea",canal
+Field_031,6.79,19.9,61.6,50.8,54.1,404.7,28.2,312.2,Peat,"Lettuce, Flax, Bean",canal
+Field_032,7.67,38.4,53.1,11.5,29.3,379.9,11.5,512.2,Peat,"Sorghum, Peach",well
+Field_033,7.23,19.7,89.7,35.3,29.6,169.4,21.1,226.4,Silt,"Plum, Chickpea",well
+Field_034,7.37,23.7,68,25.7,63.8,386.4,27.2,554.5,Loam,"Chickpea, Grapes",well
+Field_035,7.58,36.1,78.1,15.3,73.4,191.5,14.2,126.8,Clay,"Beet, Spinach, Soybean",river
+Field_036,5.82,48.3,99.8,21.6,35.1,243.8,20.8,479.7,Peat,"Chickpea, Spinach",river
+Field_037,5.79,25.6,64.1,19,90.5,123.3,10.2,616,Sandy,"Soybean, Melon",well
+Field_038,5.67,51.5,35,39.1,91.7,495.9,23.5,416.2,Sandy,"Pineapple, Bean, Tea",rainfed
+Field_039,6.24,44.8,114.2,22,83,395,29.1,116.4,Silt,"Garlic, Rye, Cauliflower",rainfed
+Field_040,7.59,37.5,99.6,49.1,53.8,340.8,29.7,527.4,Loam,"Garlic, Beet, Rice",rainfed
+Field_041,6.91,29.7,70.5,10.8,57.5,188.5,77F,101.2,Sandy,"Corn, Grapes, Pear",river
+Field_042,7.25,42.8,67.4,35.6,87.6,206.3,17.3,438.7,Sandy,"Pepper, Cotton, Cauliflower",rainfed
+Field_043,6.98,24.6,69.3,28,42.6,254,26.9,82.7,Loam,"Rice, Flax",well
+Field_044,6.51,53,58.4,35.5,38.1,211.3,13.7,92.1,Peat,"Soybean, Corn, Onion",river
+Field_045,6.2,25.5,95,23.1,71.1,140.8,11.3,456.2,Clay,"Bean, Raspberry",well
+Field_046,5.78,30.3,107.4,32.2,23.3,488.9,15,414.7,Silt,"Bean, Mango",rainfed
+Field_047,7.23,31.3,106.9,42.5,39.7,454.9,11.2,309.2,Loam,"Chickpea, Pineapple",river
+Field_048,6.73,47,54.6,23.2,82.6,250.1,26.3,606.6,loamy,"Pepper, Soybean, Carrot",rainfed
+Field_049,7.36,27.3,67.1,39.9,89,332.7,22.2,142.2,Loam,"Mango, Lentil, Tomato",canal
+Field_050,5.99,18.8,107.9,27.4,71.2,455.4,21.4,241.7,Peat,"Lentil, Rye",well
